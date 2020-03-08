@@ -10,8 +10,8 @@
     - Runtime: 64 ms, faster than 60.83% of Python3 online submissions for Longest Substring Without Repeating Characters.
     - Memory Usage: 17.7 MB, less than 5.10% of Python3 online submissions for Longest Substring Without Repeating Characters.
 - 4.Median of Two Sorted Arrays
-    - Runtime: 120 ms, faster than 12.61% of Python3 online submissions for Median of Two Sorted Arrays.
-    - Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Median of Two Sorted Arrays.
+    - Runtime: 88 ms, faster than 93.45% of Python3 online submissions for Median of Two Sorted Arrays.
+    - Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Median of Two Sorted Arrays.
 - 7.Reverse Integer 20200303
     - Runtime: 32 ms, faster than 49.42% of Python3 online submissions for Reverse Integer.
     - Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Reverse Integer.
