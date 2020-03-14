@@ -9,7 +9,7 @@
 - 3.Longest Substring Without Repeating Characters 20200302
     - Runtime: 64 ms, faster than 60.83% of Python3 online submissions for Longest Substring Without Repeating Characters.
     - Memory Usage: 17.7 MB, less than 5.10% of Python3 online submissions for Longest Substring Without Repeating Characters.
-- 4.Median of Two Sorted Arrays
+- 4.Median of Two Sorted Arrays 20200308
     - Runtime: 88 ms, faster than 93.45% of Python3 online submissions for Median of Two Sorted Arrays.
     - Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Median of Two Sorted Arrays.
 - 7.Reverse Integer 20200303
@@ -21,3 +21,6 @@
 - 9.Palindrome Number 20200305
     - Runtime: 52 ms, faster than 86.74% of Python3 online submissions for Palindrome Number.
     - Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Palindrome Number.
+- 14.Longest Common Prefix 20200314
+    - Runtime: 32 ms, faster than 66.32% of Python3 online submissions for Longest Common Prefix.
+    - Memory Usage: 13 MB, less than 97.14% of Python3 online submissions for Longest Common Prefix.
