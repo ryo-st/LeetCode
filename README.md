@@ -27,3 +27,6 @@
 - 17.Letter Combinations of a Phone Number 20200315
     - Runtime: 28 ms, faster than 66.14% of Python3 online submissions for Letter Combinations of a Phone Number.
     - Memory Usage: 13 MB, less than 98.53% of Python3 online submissions for Letter Combinations of a Phone Number.
+- 19.Remove Nth Node From End of List 20200317
+    - Runtime: 40 ms, faster than 11.75% of Python3 online submissions for Remove Nth Node From End of List.
+    - Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Remove Nth Node From End of List.
