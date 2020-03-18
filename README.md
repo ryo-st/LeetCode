@@ -30,3 +30,6 @@
 - 19.Remove Nth Node From End of List 20200317
     - Runtime: 40 ms, faster than 11.75% of Python3 online submissions for Remove Nth Node From End of List.
     - Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Remove Nth Node From End of List.
+- 20.Valid Parentheses 20200318
+    - Runtime: 20 ms, faster than 97.82% of Python3 online submissions for Valid Parentheses.
+    - Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Valid Parentheses.
